@@ -31,5 +31,5 @@
 - Manzano
 
 ### link
-![ este es el link](https://www.google.com/webhp?authuser=3)(https://www.100cia.site/media/k2/items/cache/ec46fcda4b88e2064437c26396403b6f_M.jpg)
+![ este es el link](https://www.100cia.site/media/k2/items/cache/ec46fcda4b88e2064437c26396403b6f_M.jpg)
 
